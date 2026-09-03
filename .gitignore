@@ -1,0 +1,16 @@
+#ambientes virtuais
+venv/
+env/
+
+#arq cache
+__pycache__/
+*.pyc
+
+#arq de ambiente (caso usem futuramente)
+.env
+
+# teste unitários
+htmlcov/
+.coverage
+relatorio.html
+resultado.xml
